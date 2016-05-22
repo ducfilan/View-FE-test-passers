@@ -5,7 +5,7 @@ First, because we are retrieving data from another domain but we cannot use json
 
 The output looks like this:
 
-Total pass count: 37/292
+Total pass count: 38/292
 Pass rate: 13%
 
     Nguyễn Tuấn Anh >> Morning: 630, Afternoon: 685
