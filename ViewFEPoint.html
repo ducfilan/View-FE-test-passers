@@ -59,7 +59,7 @@
                             $("#idPassCount").text(++totalPassCount);
                             $("#idPassList").append("<li>" + /<b>.*?<\/b>/gmi.exec(userInfo) + " >> Morning: " + scoreMorning + ", Afternoon: " + scoreAfternoon + "</li>");
 
-                            $("#idPassRate").text(totalPassCount / totalParticipants);
+                            $("#idPassRate").text(totalPassCount *100 / totalParticipants);
                         }
                     }
 
