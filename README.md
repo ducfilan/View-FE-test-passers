@@ -1,5 +1,5 @@
 # View-FE-test-passers
-I was participated in a certificate test called FE (a Japanese certificate). I was intented to know the pass rate of Vietnam. So that is how it comes.
+I was participated in a certificate test called FE (a Japan's certificate for engineer). I was intented to know the pass rate of Vietnam. So that is how it comes.
 
 First, because we are retrieving data from another domain but we cannot use jsonp because response is HTML, easiest way is that we need this extension: https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en
 
